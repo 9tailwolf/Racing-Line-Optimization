@@ -8,7 +8,7 @@ When you type below code on your terminal, then the code will be executed.
 python main.py
 ```
 
-If you want to change condition for find strategy, you should type below.
+If you want to change condition for find racing line, you should type below.
 
 ```bash
 python main.py --circuit='Monza' --node_size=13 --max_velocity=50 --mix_velocity=10 --velocity_interval=41 --max_theta=40 -theta_interval=11
